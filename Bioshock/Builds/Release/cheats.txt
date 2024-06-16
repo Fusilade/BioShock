@@ -1,0 +1,81 @@
+//! ---- Settings ---- 
+show postprocess
+show fog
+FULLMOTIONBLUR 0
+
+//! ---- Resolution ----
+//setres 3840x2160 fullscreen
+//setres 1024x768 windowed
+//setres 720x480w
+//setres 1920x1080f
+
+//! ---- Cheats With Doom Lolz ----
+IGdqd
+IGkfa
+IGBigBucks
+//GiveItem(1000, "ShockGame.Credits
+IGReallyBigBucks
+//GiveItem(1000000, "ShockGame.Credits
+
+//! ---- Cheats Commonly Used ----
+//InitCheatManager
+//EnableCheats
+Givehealth
+givebioammo
+GiveAllPlasmids
+GiveLoadout
+
+//! ---- HUD ----
+//ToggleVisualEffects
+//ToggleHud
+//ShowHud | HideHud
+
+//! ---- ShockPawn ----
+//set shockpawn groundspeed 666
+//set shockpawn jumpz 999
+//SET ShockPawn AttackRadius 666
+//setjumpz
+//setgravity
+//SetFOV
+//HelmetOn |HelmetOff
+
+//! ---- Cheats Unused ----
+//fly
+//walk
+//teleport
+//slomo
+//killpawns
+//suicide
+
+//! ---- Cheats (Untested) ----
+//GiveItem 9999 ShockGame.ADAM
+//GiveStrictlySuperiorMod
+//SpawnSecurityBot
+//SpawnTestBot
+//TogglePlayerInvisible
+//ToggleIlluminationAffectingVision
+//ToggleDebugPlayerIllumination
+
+
+//! ---- Upgrades ---- (Untested)
+//;AddWeaponStatUpgrade ChemicalThrower ConsumptionRate
+//;AddWeaponStatUpgrade ChemicalThrower ConsumptionRate
+//;AddWeaponStatUpgrade ChemicalThrower Range
+//;AddWeaponStatUpgrade Crossbow BreakageChance
+//;AddWeaponStatUpgrade Crossbow Damage
+//;AddWeaponStatUpgrade GrenadeLauncher Immunity
+//;AddWeaponStatUpgrade GrenadeLauncher Damage
+//;AddWeaponStatUpgrade MachineGun Damage
+//;AddWeaponStatUpgrade MachineGun Kickback
+//;AddWeaponStatUpgrade Pistol MagazineSize
+//;AddWeaponStatUpgrade Pistol Damage
+//;AddWeaponStatUpgrade Shotgun Damage
+//;AddWeaponStatUpgrade Shotgun RateOfFire
+
+//! ---- Plasmids ---- 
+//;function GEP(name PlasmidName)
+//FillPlasmids
+
+//! ---- Play Movies ----
+//;PlayMovie('EndingMovieHarvestedGatherers')
+//;PlayMovie('EndingMovieSavedGatherers')
